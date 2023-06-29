@@ -1,5 +1,5 @@
 *.pyc
-data/
+data/*
 !data/load_3d_data.py
 __pycache__/
 checkpoints/
